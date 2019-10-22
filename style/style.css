@@ -1,0 +1,45 @@
+body{
+  background:url(galaxy.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family: 'Nanum Gothic',helvetica,sans-serif;
+  color: yellow;
+  text-align: center;
+}
+h1{
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid yellow;
+}
+th{
+  font-size: 25px;
+  height: 40px;
+  border-bottom: 2px solid yellow;
+}
+.saw{
+  border-right: 2px solid yellow;
+  width: 200px;
+  font-size: 110%;
+}
+img{
+  width: 270px;
+  height: 190px;
+}
+a{
+  color: white;
+}
+footer{
+  clear:both;
+  position: fixed;
+  width: 100%;
+  margin: 0px 0 0 0;
+  line-height: 30px;
+  bottom: 0px;
+}
