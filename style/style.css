@@ -1,5 +1,10 @@
 body{
-  background-image: url("galaxy.jpg");
+  background:url("galaxy.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
   font-family: 'Nanum Gothic',helvetica,sans-serif;
   color: yellow;
   text-align: center;
